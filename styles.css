@@ -35,12 +35,14 @@ body {
   font-style: italic;
 }
 .languages{
-    font-family: serif;
+   font-family: serif;
     width: 330px;
     background-color: white;
     justify-content: space-around;
-    padding: 20px;
+    padding: 25px;
+    margin: 20px;
     border: solid gray;
+    border-radius: 15px;
 }
 .bodyimg{
   font-family: serif;
